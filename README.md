@@ -93,7 +93,7 @@ folium>=0.15
 
 | Repository | Description |
 |---|---|
-| [tidal-prediction-gru](https://github.com/ikhsanaqim/tidal-prediction-ml) | Deep learning GRU untuk prediksi anomali pasang surut (divalidasi BMKG) |
+| [tidal-prediction-ml](https://github.com/ikhsanaqim/tidal-prediction-ml) | Deep learning GRU untuk prediksi anomali pasang surut (divalidasi BMKG) |
 | FloodGuard *(coming soon)* | WebGIS prediksi risiko banjir rob Semarang berbasis GEE + ML |
 | Carbon Stock Indonesia *(coming soon)* | Pemetaan stok karbon hutan & gambut Indonesia |
 | Dark Vessel Detection *(coming soon)* | Deteksi kapal illegal dari SAR Sentinel-1 + AIS |
