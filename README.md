@@ -17,7 +17,7 @@
 
 | # | Project | Topic | Tools | Colab |
 |---|---|---|---|---|
-| 01 | [SST Indonesia 2021–2025](./01_sst_indonesia/) | Sea Surface Temperature trend & anomaly | xarray · Cartopy · Plotly | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikhsanaqim/geo-ml-portfolio/blob/main/01_sst_indonesia/notebook.ipynb) |
+| 01 | [SST Indonesia 2021–2025](./01_sst_indonesia/) | Sea Surface Temperature trend & anomaly | xarray · Cartopy · Plotly | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikhsanaqim/geo-ml-portfolio/blob/main/01_sst_indonesia/sst_indonesia_visualization.ipynb) |
 | 02 | [Pasang Surut BMKG](./02_tidal_bmkg/) | Download & visualisasi time-series pasang surut | Pandas · Matplotlib | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikhsanaqim/geo-ml-portfolio/blob/main/02_tidal_bmkg/notebook.ipynb) |
 | 03 | [Marine Heatwave Indonesia](./03_marine_heatwave/) | Deteksi anomali SST dengan Isolation Forest | Scikit-learn · Plotly | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikhsanaqim/geo-ml-portfolio/blob/main/03_marine_heatwave/notebook.ipynb) |
 | 04 | [ENSO vs SST Indonesia](./04_enso_sst/) | Korelasi ONI index vs SST 40 tahun | Xarray · Plotly | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikhsanaqim/geo-ml-portfolio/blob/main/04_enso_sst/notebook.ipynb) |
